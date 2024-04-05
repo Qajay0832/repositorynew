@@ -1,0 +1,21 @@
+.description{
+    border: 1px solid black;
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+}
+.imageSection{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.image{
+    height: 500px;
+    width: 800px;
+}
+.imageLink{
+    margin-top: 20px;
+}
+.trivia{
+    padding:20px;
+}
